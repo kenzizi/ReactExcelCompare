@@ -45,7 +45,6 @@ const App = () => {
           });
         });
         setFile2(a);
-        console.log(File2.size);
       });
     }
   };
